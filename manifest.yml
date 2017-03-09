@@ -1,0 +1,4 @@
+---
+applications:
+- name: SpringMvc2
+  memory: 512M
